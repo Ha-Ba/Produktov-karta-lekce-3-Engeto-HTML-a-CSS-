@@ -14,17 +14,16 @@ body {
   font-family: "Inter", Arial, Helvetica, sans-serif;
 }
 .product-image-container {
-}
-
-.bestseller-badge {
-  background-color: var(--product-yellow);
-  color: var(--product-brown);
-  font-weight: bold;
-  font-size: 14px;
-  padding: 4px;
-  position: absolute;
-  top: 30px;
-  left: 0px;
+  .bestseller-badge {
+    background-color: var(--product-yellow);
+    color: var(--product-brown);
+    font-weight: bold;
+    font-size: 14px;
+    padding: 4px;
+    position: absolute;
+    top: 30px;
+    left: 0px;
+  }
 }
 
 .discount-badge {
